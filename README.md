@@ -4,6 +4,8 @@ An imagined portfolio page for an astrophotographer or space & stars enthusiast.
 Uses Three.js, SphereGeometry, and THREE.Points to generate a universe of stars. 
 Uses mouse parallax to grab the user's raw motions.
 
+Demo here: https://codepen.io/editor/khiggsdono/pen/019ecd5f-f243-7741-a738-ecac3e91cd16
+
 More details
 
 1. Nebula Background
@@ -18,8 +20,8 @@ The stars stay at a low simmer for a while and then suddenly "flash" or pulse ra
 
 4. Interactive Parallax & Orbiting
 The universe responds to the user in two ways simultaneously:
--Passive & Active Orbit: The OrbitControls plugin slowly auto-rotates the camera, but users can click and drag to orbit through the 3D starfield themselves.
--Mouse Parallax: The code captures the raw coordinates of your mouse pointer (mouseX/mouseY) and applies tilting effect to the entire universe group
+  -Passive & Active Orbit: The OrbitControls plugin slowly auto-rotates the camera, but users can click and drag to orbit through the 3D starfield themselves.
+  -Mouse Parallax: The code captures the raw coordinates of your mouse pointer (mouseX/mouseY) and applies tilting effect to the entire universe group
 
 5. The Three.js Universe
 The Nebula Sphere: The code creates a huge SphereGeometry with a radius of 1000 units. It sets side: THREE.BackSide, which means the texture is rendered on the inside of the sphere. The camera sits center, looking out at the walls of this sphere.
