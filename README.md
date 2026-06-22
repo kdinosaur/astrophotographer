@@ -4,7 +4,7 @@ An imagined portfolio page for an astrophotographer or space & stars enthusiast.
 Uses Three.js, SphereGeometry, and THREE.Points to generate a universe of stars. 
 Uses mouse parallax to grab the user's raw motions.
 
-Demo here: https://codepen.io/editor/khiggsdono/pen/019ecd5f-f243-7741-a738-ecac3e91cd16
+Demo here: https://codepen.io/editor/kdinosaur/pen/019ecd5f-f243-7741-a738-ecac3e91cd16
 
 More details
 
