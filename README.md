@@ -1,3 +1,5 @@
+<img width="1520" height="806" alt="astrophotography" src="https://github.com/user-attachments/assets/6ebc8606-7b1e-43e5-8a60-eaf2a7b8661b" />
+
 An imagined portfolio page for an astrophotographer or space & stars enthusiast. 
 Uses Three.js, SphereGeometry, and THREE.Points to generate a universe of stars. 
 Uses mouse parallax to grab the user's raw motions.
